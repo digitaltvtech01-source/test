@@ -6,12 +6,34 @@
 
 ######TESTING######
 
-#EXTINF:-1 tvg-name="Malaysia" tvg-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="itzreisa.id" group-title="test only",Astro Ria
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
-https://cf.perfecttv.net/rwt.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ria
+#EXTINF:-1 group-logo="" group-title="testing" tvg-id="hbohd" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,141 HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 group-logo="" group-title="testing" tvg-id="hbofamily" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,144 HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="testing" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",142 HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="testing" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
 
 #EXTINF:-1 tvg-name="Malaysia" tvg-logo="https://i.imgur.com/iuykrtK.jpeg" tvg-id="itzreisa.id" group-title="Malaysian",Lead
@@ -510,23 +532,23 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4&provider=mytech
 #################### FIFA WORLD CUP
  ##################### UNIFI FIFA
 
-#EXTINF:-1 tvg-id="720" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 1
+##EXTINF:-1 tvg-id="720" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa1
+##https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa1
 
-#EXTINF:-1 tvg-id="721" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 2
+##EXTINF:-1 tvg-id="721" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa2
+##https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa2
 
-#EXTINF:-1 tvg-id="722" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 3
+##EXTINF:-1 tvg-id="722" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",Unifi FIFA PIALA DUNIA 2026 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa3
+##https://linears-playbackmy.mobileads.uno/fifah.mpd?id=fifa3
 
 #################### RTM FIFA
 
@@ -549,17 +571,17 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
 ################# FIFA FILIPINA 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 1
+##EXTINF:-1 group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+##https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 2
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+##https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
 @#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 3
 https://da-50f11b272a028381000001120000000000000007.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_HD/default/index.mpd
@@ -613,13 +635,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", Elta Sports 1
+##EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", Elta Sports 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 #https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
-http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+#http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 rtmp://f13h.mine.nu/sat/md051
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+##https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
 
 
 
