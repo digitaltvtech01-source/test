@@ -841,6 +841,36 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png" ,141 HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="MOVIES" group-logo="" tvg-logo="https://ptv2026.com/logo/hbohits.png",142 HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="hbofamily" tvg-logo="https://ptv2026.com/logo/hbofamily.png" ,144 HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
+#EXTINF:-1 tvg-id="" tvg-name="144 HBO Signature" tvg-logo="https://ptv2026.com/logo/hbosingnature.png" group-title="MOVIES",144 HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:Referer=https://www.indihometv.com
+#EXTVLCOPT:Origin=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+
 
 #################################################################################### DOCUMENTARY
 
