@@ -494,7 +494,7 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #################### RTM FIFA
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-id="" tvg-logo="https://i.ibb.co/tTjxGwpq/worldcuplogo-afp-1.webp" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",RTM FIFA PIALA DUNIA 2026 1
+#EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="" tvg-logo="https://i.ibb.co/tTjxGwpq/worldcuplogo-afp-1.webp" group-title="PIALA DUNIA 2026" group-logo="https://i.imgur.com/Pe64HIN.jpeg",RTM FIFA PIALA DUNIA 2026 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
@@ -512,7 +512,7 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
 ################# FIFA FILIPINA 
 
-##EXTINF:-1 group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 1
+##EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
@@ -529,7 +529,7 @@ https://da-50f11b272a028381000001120000000000000007.id.vx.tentcdn.eu/wp/at-live-
 
 ################## TSN
 
-@#EXTINF:-1 group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-id="TSN1 HD.ca" tvg-logo="https://i.imgur.com/Pe64HIN.jpeg" group-title="Sports", TSN 1
+@#EXTINF:-1 group-logo="https://i.imgur.com/Pe64HIN.jpeg" tvg-id="TSN1 HD.ca" tvg-logo="https://i.imgur.com/Pe64HIN.jpeg" group-title="Sports", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
